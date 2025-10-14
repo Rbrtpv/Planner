@@ -13,6 +13,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+@import "tailwindcss";
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #0f1820;
